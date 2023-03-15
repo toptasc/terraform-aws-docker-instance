@@ -16,3 +16,4 @@ module "docker_instance" {
     source = "toptasc/docker-instance/aws"
     key_name = "clarusway"
 }
+```
